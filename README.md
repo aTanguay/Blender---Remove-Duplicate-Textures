@@ -1,7 +1,7 @@
-# Blender - Remove Duplicate Textures
- A simple addon to clean up copies of the same texture map
+# Remove Duplicate Textures Blender Addon
+ A simple addon to clean up copies of the same texture map. I'm not going to insult you by telling you how to install an addon.
 
- I wasn't able to find an addon or feature to clean up files where you have multple textures in the file that are already loaded.
+ I wasn't able to find an addon or feature to clean up Blender files where you have multple copies of the same texture. 
  Sometimes, you get many copies of the same texture, which bloats up your file. This solves that problem.
  It remaps to one copy of the file, and gets rid of the otheres. Should make the file smaller when you're including resources.
 
